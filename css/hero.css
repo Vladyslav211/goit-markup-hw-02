@@ -1,4 +1,4 @@
-#hero{
+.hero{
     background-color: #2E2F42;
 }
 
@@ -6,7 +6,7 @@
 font-family: "Roboto", sans-serif;
 text-align: center;
 font-weight: 700;
-font-size: 56;
+font-size: 56px;
 line-height: 1.07;
 color: #ffffff;
 letter-spacing: 1.12px;
